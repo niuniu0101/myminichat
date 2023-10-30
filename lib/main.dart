@@ -12,6 +12,7 @@ void main() {
       '/message': (context) => MessagePage(),
       '/story': (context) => StoryPage(),
       '/video-call':(context) => VideoCallPage(),
+
     },
   ));
 }
